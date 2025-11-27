@@ -1,0 +1,98 @@
+[
+  {
+    "id": "rest-001",
+    "name": "Kafue Kitchen",
+    "image": "https://images.unsplash.com/photo-1555993539-1732e6b9f73d?w=1200&q=80",
+    "shortDescription": "Traditional Zambian cuisine with modern flair.",
+    "cuisine": "Zambian",
+    "location": "Ndola, Copperbelt",
+    "rating": 4.5,
+    "menu": [
+      {
+        "id": "menu-001",
+        "name": "Nshima & Kapenta",
+        "price": 75,
+        "category": "Main",
+        "description": "Served with fresh relish and seasonal vegetables."
+      },
+      {
+        "id": "menu-002",
+        "name": "Chicken Stew",
+        "price": 90,
+        "category": "Main",
+        "description": "Slow-cooked chicken in tomato and onion gravy."
+      },
+      {
+        "id": "menu-003",
+        "name": "Munkoyo Drink",
+        "price": 25,
+        "category": "Drinks",
+        "description": "Traditional fermented beverage."
+      }
+    ]
+  },
+  {
+    "id": "rest-002",
+    "name": "Copperbelt Grill",
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=1200&q=80",
+    "shortDescription": "Casual spot for grills, burgers, and sides.",
+    "cuisine": "Grill",
+    "location": "Ndola, Town Centre",
+    "rating": 4.2,
+    "menu": [
+      {
+        "id": "menu-101",
+        "name": "Beef Burger",
+        "price": 85,
+        "category": "Main",
+        "description": "Grilled patty, cheddar, tomato, special sauce."
+      },
+      {
+        "id": "menu-102",
+        "name": "Peri-Peri Chicken",
+        "price": 95,
+        "category": "Main",
+        "description": "Charred chicken with peri-peri glaze."
+      },
+      {
+        "id": "menu-103",
+        "name": "Chips",
+        "price": 30,
+        "category": "Sides",
+        "description": "Crispy fries with paprika salt."
+      }
+    ]
+  },
+  {
+    "id": "rest-003",
+    "name": "Lakeside Vegan",
+    "image": "",
+    "shortDescription": "Plant-based meals, fresh juices, and desserts.",
+    "cuisine": "Vegan",
+    "location": "Ndola, Itawa",
+    "rating": 4.7,
+    "menu": [
+      {
+        "id": "menu-201",
+        "name": "Bean Stew & Rice",
+        "price": 70,
+        "category": "Main",
+        "description": "Hearty stew with herbs and spices."
+      },
+      {
+        "id": "menu-202",
+        "name": "Green Power Juice",
+        "price": 35,
+        "category": "Drinks",
+        "description": "Cucumber, apple, spinach, ginger."
+      },
+      {
+        "id": "menu-203",
+        "name": "Peanut Banana Smoothie",
+        "price": 40,
+        "category": "Dessert",
+        "description": "Creamy and protein-packed."
+      }
+    ]
+  }
+]
